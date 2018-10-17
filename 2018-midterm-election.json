@@ -1,0 +1,116 @@
+[
+  {
+    "location-type": "all",
+    "location-id": "all",
+    "title": "US Senate voters guide",
+    "url": "https://journalstar.com/u-s-senate/article_0b5fefef-6320-51d4-9733-a42550dceaf3.html#1"
+  },
+  {
+    "location-type": "us-house",
+    "location-id": "congressional-district-1",
+    "title": "US House voters guide",
+    "url": "https://journalstar.com/candidates-for-u-s-house-of-representatives-nebraska-district/collection_4140d61f-50d4-55d8-bdb8-0db7562dbb52.html"
+  },
+  {
+    "location-type": "all",
+    "location-id": "all",
+    "title": "Governor voters guide",
+    "url": "https://journalstar.com/governor/article_3e12f84b-24e7-552f-90b9-906b2706cb78.html"
+  },
+  {
+    "location-type": "all",
+    "location-id": "all",
+    "title": "Sec of State voters guide",
+    "url": "https://journalstar.com/nebraska-secretary-of-state/article_500de986-eee1-595c-9e92-0d22606cb1e2.html"
+  },
+  {
+    "location-type": "all",
+    "location-id": "all",
+    "title": "State Auditor voters guide",
+    "url": "https://journalstar.com/nebraska-state-auditor/article_7027d2be-858b-5e62-98ff-decdeae83193.html"
+  },
+  {
+    "location-type": "state",
+    "location-id": "district-1",
+    "title": "Public Service Commission district 1 voters guide",
+    "url": "https://journalstar.com/nebraska-public-service-commission-candidates-district/collection_e93c4f35-fab8-5eac-9bc8-2b84bff2b37c.html"
+  },
+  {
+    "location-type": "county",
+    "location-id": "lancaster",
+    "title": "Lancaster County Treasurer voters guide",
+    "url": "https://journalstar.com/lancaster-county-treasurer/article_dad3ed1c-8fdf-57a1-a9b5-9bd00de6307c.html"
+  },
+  {
+    "location-type": "state-legislature",
+    "location-id": 24,
+    "title": "State legislature voters guide 24",
+    "url": "https://journalstar.com/nebraska-legislature-candidates-district/collection_80eabc10-38a9-56bf-93c4-8a820d0fa03f.html"
+  },
+  {
+    "location-type": "state-legislature",
+    "location-id": 26,
+    "title": "State legislature voters guide 26",
+    "url": "https://journalstar.com/nebraska-legislature-candidates-district/collection_47b47b8f-e1e6-5ea7-924a-b0c3604d7045.html"
+  },
+  {
+    "location-type": "state-legislature",
+    "location-id": 28,
+    "title": "State legislature voters guide 28",
+    "url": "https://journalstar.com/nebraska-legislature-candidates-district/collection_f355c62f-1b04-5867-98f1-723213c9bef9.html"
+  },
+  {
+    "location-type": "state-legislature",
+    "location-id": 30,
+    "title": "State legislature voters guide 30",
+    "url": "https://journalstar.com/nebraska-legislature-candidates-district/collection_1cd9e039-2f33-5e48-a15c-7ef4104593b7.html"
+  },
+  {
+    "location-type": "state-legislature",
+    "location-id": 32,
+    "title": "State legislature voters guide 32",
+    "url": "https://journalstar.com/nebraska-legislature-candidates-district/collection_e8572f5a-50e7-5449-a287-e0e745befe43.html"
+  },
+  {
+    "location-type": "state-legislature",
+    "location-id": 46,
+    "title": "State legislature voters guide 46",
+    "url": "https://journalstar.com/nebraska-legislature-candidates-district/collection_cca1d549-5c64-5b6e-bc79-bcfa897c328c.html"
+  },
+  {
+    "location-type": "county",
+    "location-id": "lancaster-1",
+    "title": "Lancaster County Board district 1 voters guide",
+    "url": "https://journalstar.com/lancaster-county-board-candidates-district/collection_d0f8c208-5cec-53cc-a8d9-e8f1ac03f48d.html"
+  },
+  {
+    "location-type": "state",
+    "location-id": 5,
+    "title": "State Board of Education district 5 voters guide",
+    "url": "https://journalstar.com/nebraska-state-board-of-education/article_781e1aea-119e-5002-8154-d9d8e035bd7b.html"
+  },
+  {
+    "location-type": "state",
+    "location-id": 5,
+    "title": "State Board of Regents district 5 voters guide",
+    "url": "https://journalstar.com/university-of-nebraska-board-of-regents/article_564ea941-0645-5730-acab-70cfb5957dc3.html"
+  },
+  {
+    "location-type": "state",
+    "location-id": 3,
+    "title": "SCC district 3 voters guide",
+    "url": "https://journalstar.com/scc-board-candidates-district/collection_b89e0981-4f4c-5596-a723-fdcbc184b15f.html"
+  },
+  {
+    "location-type": "state",
+    "location-id": 5,
+    "title": "SCC district 5 voters guide",
+    "url": "https://journalstar.com/scc-board-candidates-district/collection_61abb964-e436-5f78-8168-a72d49376240.html"
+  },
+  {
+    "location-type": "county",
+    "location-id": "lancaster",
+    "title": "Lower Platte SNRD BOD voters guide",
+    "url": "https://journalstar.com/lower-platte-south-natural-resources-district/article_ac52b627-b9b6-5d9a-8531-7cae0e11840b.html"
+  }
+]
