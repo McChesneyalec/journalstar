@@ -40,9 +40,9 @@ var linker = {
         // We put the markup in a nested object that is, at the end here, assigned to linker.markup.
         //
         // This is what one object we loop through might look like:
-        // {location-type: "state-house", location-id: 23, title: "State House District 23 voter's guide", url: "http://www.denverpost.com/"}
+        // {location-type: "state-house", location-id: 23, title: "State House District 23 voter's guide", url: "https://journalstar.com/"}
         // And this is what that object would be turned into by this loop:
-        // { 'state-house': { '23': '<li><a href="http://www.denverpost.com/">State House District 23 voter's guide</a></li>' } }
+        // { 'state-house': { '23': '<li><a href="https://journalstar.com/">State House District 23 voter's guide</a></li>' } }
         var l = linker.data.length;
         var m = {};
         for ( var i = 0; i < l; i ++ ) {
